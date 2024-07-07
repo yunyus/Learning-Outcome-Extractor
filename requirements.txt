@@ -1,0 +1,8 @@
+PyMuPDF
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+torch
+openai
+tqdm
